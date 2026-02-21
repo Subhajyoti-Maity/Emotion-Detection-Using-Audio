@@ -1,0 +1,7 @@
+Flask>=2.0
+flask-cors>=3.0
+tensorflow>=2.8
+keras>=2.8
+librosa>=0.9
+pydub>=0.25
+numpy>=1.21
