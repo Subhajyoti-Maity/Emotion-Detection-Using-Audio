@@ -15,11 +15,7 @@ Detect emotions from your voice in real time or from uploaded audio files using 
 - 📊 Detects 8 emotions: Angry, Happy, Neutral, Sad, Calm, Fearful, Disgust, Surprised
 - 💻 Clean, responsive UI (HTML/CSS/JS)
 
----
 
-## ⚡ Installation and Setup
-
-Clone the repository from GitHub:
 
 ---
 
@@ -76,29 +72,30 @@ Below are demo screenshots of the application in action:
 
 ---
 
-## ⚡ Quickstart
 
-### 1. Clone the repository
+## 🛠️⚡ Installation & Setup
+
+### 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/Subhajyoti-Maity/Emotion-Detection-Using-Audio.git
 cd Emotion-Detection-Using-Audio
 ```
 
-### 2. Create and activate a virtual environment (Windows)
+### 2️⃣ Create & activate a virtual environment (💻 Windows)
 
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
 ```
 
-### 3. Install dependencies
+### 3️⃣ Install dependencies 📦
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run the app
+### 4️⃣ Run the app 🚀
 
 ```bash
 .venv\Scripts\python.exe app.py
@@ -107,7 +104,7 @@ set FLASK_APP=app.py
 flask run
 ```
 
-Visit [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in your browser.
+🌐 Visit [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in your browser.
 
 ---
 
