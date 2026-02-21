@@ -1,12 +1,25 @@
 
-# 🚀 Installation
-
-Clone the repository from GitHub:
-
 
 # 🎭 Emotion Detection Using Audio 🎙️
 
 Detect emotions from your voice in real time or from uploaded audio files using a deep learning model. This project features a modern web interface powered by Flask and a pre-trained neural network.
+
+---
+
+## 🚀 Features
+
+- 🎤 Real-time audio recording and analysis
+- 📁 Upload audio files for emotion detection
+- 🤖 Deep learning model (Keras/TensorFlow, .h5 format)
+- 🧠 MFCC feature extraction (Librosa)
+- 📊 Detects 8 emotions: Angry, Happy, Neutral, Sad, Calm, Fearful, Disgust, Surprised
+- 💻 Clean, responsive UI (HTML/CSS/JS)
+
+---
+
+## ⚡ Installation and Setup
+
+Clone the repository from GitHub:
 
 ---
 
@@ -57,9 +70,9 @@ Emotion-Detection-Using-Audio/
 
 Below are demo screenshots of the application in action:
 
-[Emotion detection uploding audio.png](demo_clips/Emotion%20detection%20uploding%20audio.png)
+[![Emotion detection uploading audio](demo_clips/Emotion%20detection%20uploding%20audio.png)](demo_clips/Emotion%20detection%20uploding%20audio.png)
 
-[Real time audio recording emotion detection.png](demo_clips/Real%20time%20audio%20recording%20emotion%20detection.png)
+[![Real time audio recording emotion detection](demo_clips/Real%20time%20audio%20recording%20emotion%20detection.png)](demo_clips/Real%20time%20audio%20recording%20emotion%20detection.png)
 
 ---
 
